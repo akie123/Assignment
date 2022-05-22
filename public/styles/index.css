@@ -1,0 +1,74 @@
+body{
+    background-color: black;
+}
+.bar{
+    padding-top:2%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+/*#3dc6c1*/
+h4{
+    color: #3dc6c1;
+    text-align: center;
+}
+#but-4{
+    width: 80%;
+
+}
+.container-fluid {
+    padding: 3% 3% 3%;
+}
+
+.image{
+    width: 80%;
+}
+
+button{
+    border-radius: 25px;
+}
+
+
+ok7{
+    text-align: center;
+    margin: 2%;
+}
+
+
+
+
+
+/*// Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767.98px) {
+    .ok9{
+        padding-top: 4%;
+    }
+
+}
+
+/*// Medium devices (tablets, less than 992px)*/
+@media  (max-width: 991.98px) {
+    ok3{
+        text-align: center;
+        padding: 2%;
+    }
+    ok4{
+        text-align: center;
+        padding: 2%;
+    }
+.ok1{
+    text-align: center;
+     margin: auto;
+    padding: 0;
+}
+    .ok2{
+        text-align: center;
+     margin: auto;
+        padding: 0;
+    }
+
+}
+
+
+table{
+    border-spacing: 40px;
+}
